@@ -1,1 +1,5 @@
 .project
+
+# autopp用の設定
+*.rb
+**/autopp_input.yml
