@@ -120,6 +120,7 @@ list:
 - loc: "つ02b"
   name: "怠惰猫"
   pixiv: http://www.pixiv.net/member.php?id=5205020
+  domo: true
   book:
   - name: 少名ちゃん冒険合同 Keep Walking!
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=49914770
