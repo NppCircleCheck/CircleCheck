@@ -6,8 +6,8 @@ list:
   pixiv: http://www.pixiv.net/member_illust.php?id=581502
   book:
   - name: "愛情たくさんつめこみました!!"
-    prize: 700
-    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50020035
+    prize: 500
+    url: http://www.pixiv.net/member_illust.php?illust_id=50269877&mode=medium
 
 - loc: "あ03a"
   name: "有機化合物"
@@ -53,12 +53,14 @@ list:
   name: "Area-S"
   pixiv: http://www.pixiv.net/member.php?id=70711
   book:
-  - name: "寅丸正邪ギャグ本？"
+  - name: "ハローハローアイムヒアー"
+    prize: 600
+    url: http://www.pixiv.net/member_illust.php?illust_id=50268724&mode=medium
 
 - loc: "す10a"
   name: "Animal Passion"
   pixiv: http://www.pixiv.net/member.php?id=264281
-  description: "締め切り5/8とのこと"
+  description: "5/8入稿報告"
   book:
   - name: ナズ星？
 
@@ -167,6 +169,14 @@ list:
   - name: "響"
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50109944
 
+- loc: "つ42b"
+  name: "薬味さらい"
+  pixiv: http://www.pixiv.net/member.php?id=2622803
+  book:
+  - name: "シティ"
+    prize: 500
+    url: http://www.pixiv.net/member_illust.php?illust_id=50260068&mode=medium
+
 - loc: "つ45a"
   name: "カカオ加工場"
   pixiv: http://www.pixiv.net/member.php?id=3726034
@@ -196,6 +206,7 @@ list:
   pixiv: http://www.pixiv.net/member.php?id=462527
   book:
   - name: "ナズ星総集編"
+    prize: 1000
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50169683
 
 - loc: "て28a"
@@ -217,7 +228,10 @@ list:
 - loc: "て35b"
   name: "万里の少女"
   pixiv: http://www.pixiv.net/member.php?id=1149508
-  book: []
+  book:
+  - name: "ユーアーマイフレンド！"
+    prize: 500
+    url: http://www.pixiv.net/member_illust.php?illust_id=50268829&mode=medium
 
 - loc: "て36ab"
   name: "亜熱帯症候群"
@@ -230,6 +244,8 @@ list:
 - loc: "て37a"
   name: "wind wing"
   pixiv: http://www.pixiv.net/member.php?id=675548
+  description: "卯月甲斐さん"
+  domo: true
   book:
   - name: "＼おどろけー！／せいこうちゅう！"
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50061318
@@ -242,6 +258,7 @@ list:
     prize: 600
     url: http://www.pixiv.net/member_illust.php?illust_id=50196286&mode=medium
   - name: "天然病"
+    prize: 300
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50249341
 
 - loc: "A31b"
@@ -258,13 +275,15 @@ list:
   description: "5/7入稿"
   book:
   - name: "悪魔ノ図書館"
+    prize: 500
+    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50269089
 
 - loc: "D22ab"
   name: "エントゲーゲン"
   pixiv: http://www.pixiv.net/member.php?id=3746
   book:
   - name: "幸せ紅魔館"
-    prize: 1800
+    prize: 1500
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50004030
 
 - loc: "G41b"
@@ -364,7 +383,6 @@ list:
 - loc: "N01a"
   name: "たけのこ。"
   pixiv: http://www.pixiv.net/member.php?id=446171
-  description: "5/7残り23p"
   book:
   - name: "心の錠の最之果て"
     prize: 500
@@ -378,19 +396,43 @@ list:
     prize: 500
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50101826
 
+- loc: "せ03ab"
+  name: "桃色ピンク"
+  description: "げしょぷ先生"
+  domo: true
+  book:
+  - name: "S.K.C.X"
+    prize: 600
+    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=49811427
+
 - loc: "つ21a"
   name: "えふえふえふ"
   pixiv: http://www.pixiv.net/member_illust.php?id=45830
   description: "誕生日席列ご近所"
   domo: true
-  book: []
+  book:
+  - name: "月夜のヒゲダンディ"
+    prize: 300
+    url: http://blog-fff.seesaa.net/article/418591266.html
 
 - loc: "つ21b"
   name: "きゃとるせぽん"
   pixiv: http://www.pixiv.net/member.php?id=3366305
   description: "きせつさん\nおとなり"
   domo: true
-  book: []
+  book:
+  - name: "WANWAN!INUIZUMI!"
+    prize: 500
+    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50274342
+
+- loc: "つ27a"
+  name: "ニイ工房"
+  description: "なまうにさん（売り子）"
+  domo: true
+  book: 
+  - name: "幻想郷一時間"
+    prize: 500
+    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50032384
 
 - loc: "つ34a"
   name: "らくがきびより"
@@ -424,7 +466,10 @@ list:
   pixiv: http://www.pixiv.net/member.php?id=10222527
   description: "黄理さん\nおとなり"
   domo: true
-  book: []
+  book:
+  - name: "ナズ響わんだりてぃ！"
+    prize: 300
+    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50247272
 
 - loc: "つ37a"
   name: "落ち葉"
@@ -459,26 +504,33 @@ list:
   domo: true
   book:
   - name: "宮古芳香は腐が怖い"
+    prize: 500
 
 - loc: "E36a"
   name: "星屑屋"
   pixiv: http://www.pixiv.net/member.php?id=1180472
   description: "飴湯さん（売り子）"
   domo: true
-  book: []
+  book: 
+  - name: "RedString"
+    prize: 300
+    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50254304
 
 - loc: "I17b"
   name: "けもみみ☆ロケット"
   pixiv: http://www.pixiv.net/member.php?id=1130914
   description: "チップさん"
   domo: true
-  book: []
+  book:
+  - name: "新刊落とし"
 
 - loc: "I18a"
   name: "しろのわ～る"
   pixiv: http://www.pixiv.net/member.php?id=28463
+  description: "イクさん"
   domo: true
-  book: []
+  book:
+  - name: "新刊落とし"
 
 - loc: "N35a"
   name: "いんどの宮殿！"
@@ -486,4 +538,5 @@ list:
   domo: true
   book:
   - name: "姫様ゲーム"
+    prize: 400
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50137914
