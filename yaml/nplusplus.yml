@@ -459,6 +459,7 @@ list:
   domo: true
   book:
   - name: "命蓮寺絵日記3"
+    prize: 300
     url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50218604
 
 - loc: "つ36b"
