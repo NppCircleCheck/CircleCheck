@@ -20,7 +20,8 @@ list:
   name: "Area-S"
   pixiv: http://www.pixiv.net/member.php?id=70711
   book:
-  - name: "寅丸正邪ギャグ本？"
+  - name: "ハローハローアイムヒアー"
+    prize: 500
 
 - loc: "す45b"
   name: "安達貴族"
