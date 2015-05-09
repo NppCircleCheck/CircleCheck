@@ -418,11 +418,11 @@ td {
 }
 
 .auto {
-	background-color:#9999ff;
+	background-color:#bbbbff;
 }
 
 .aplusplus {
-	background-color:#ffff99;
+	background-color:#ffffbb;
 }
 
 .autoplus {
@@ -430,5 +430,9 @@ td {
 }
 
 .autofeli {
-	background-color:#ff99ff;
+	background-color:#ffbbff;
+}
+.trio {
+  background-color: #fafafa;
+  color: #000000;
 }
