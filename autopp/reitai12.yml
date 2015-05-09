@@ -1,5 +1,5 @@
-circle: 25
-cost: 11600
+circle: 28
+cost: 12700
 list:
 - loc: A10a
   name: poprication
@@ -16,6 +16,12 @@ list:
   - name: "透感少女"
     prize: 500
   - name: "桜色dyeing"
+    prize: 500
+
+- loc: A21a
+  name: eterna-radiare
+  book:
+  - name: "イラスト集単品"
     prize: 500
 
 - loc: A28b
@@ -75,6 +81,16 @@ list:
 
 - loc: J11b
   name: "あまず"
+  book: []
+
+- loc: K20b
+  name: 1年3組たかはる
+  book:
+  - name: "東方水墨歌集"
+    prize: 600
+
+- loc: L16a
+  name: "松吉屋"
   book: []
 
 - loc: N26a
