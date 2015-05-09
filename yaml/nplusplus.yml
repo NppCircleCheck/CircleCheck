@@ -60,9 +60,9 @@ list:
 - loc: "す10a"
   name: "Animal Passion"
   pixiv: http://www.pixiv.net/member.php?id=264281
-  description: "5/8入稿報告"
   book:
-  - name: ナズ星？
+  - name: "烏天狗と賢くつきあう法"
+    url: http://www.pixiv.net/member_illust.php?mode=medium&illust_id=50280226
 
 - loc: "す11a"
   name: "CLOVER TUNES"
@@ -272,7 +272,6 @@ list:
 - loc: "D16a"
   name: "踏月"
   pixiv: http://www.pixiv.net/member.php?id=56681
-  description: "5/7入稿"
   book:
   - name: "悪魔ノ図書館"
     prize: 500
@@ -307,6 +306,7 @@ list:
   pixiv: http://www.pixiv.net/member.php?id=85514
   book:
   - name: "八雲家合同誌 にじいろ"
+    prize: 1500
     url: http://yakumogoudou.web.fc2.com/top.html
 
 - loc: "J05a"
@@ -535,6 +535,7 @@ list:
 - loc: "N35a"
   name: "いんどの宮殿！"
   pixiv: http://www.pixiv.net/member.php?id=390501
+  description: "インド僧さん"
   domo: true
   book:
   - name: "姫様ゲーム"
