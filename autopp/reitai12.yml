@@ -1,5 +1,5 @@
-circle: 23
-cost: 17300
+circle: 24
+cost: 17800
 user: auto
 list:
 - loc: A10a
@@ -110,6 +110,12 @@ list:
   name: "喫茶・アンダンテ"
   book:
   - name: STELLA
+
+- loc: "す09b"
+  name: Area-S
+  book:
+  - name: "ハローハローアイムヒアー"
+    prize: 500
 
 - loc: "そ42a"
   name: EnHANCE HEART
